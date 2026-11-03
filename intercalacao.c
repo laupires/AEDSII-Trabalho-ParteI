@@ -183,7 +183,6 @@ void intercalacao_arvore_de_vencedores(
 
     /* Realiza a intercalacao */
     while (arvore[1] != -1) {
-
         /* A raiz indica a particao vencedora */
         int vencedor = arvore[1];
 
