@@ -2,15 +2,15 @@
 
 Projeto desenvolvido para a disciplina de Algoritmos e Estruturas de Dados II.
 
-## Integrantes e responsabilidades
+## Integrantes 
 
-- Bruno José Souza — Implementação da Árvore de Vencedores e ajustes no código.
+- Bruno José Souza
 - Daniel Tavares Godoy
-- Ismael
+- Ismael Costa
 - João Vitor Pereira Machado
 - Laura Andrade Pires
 - Pablo Goncalves Barbosa
-- Rodrigo
+- Rodrigo Dias
 
 ## Tecnologias utilizadas
 
